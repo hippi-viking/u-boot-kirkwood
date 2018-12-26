@@ -1,0 +1,12 @@
+if TARGET_IX2-DL
+
+config SYS_BOARD
+	default "ix2-dl"
+
+config SYS_VENDOR
+	default "lenovo"
+
+config SYS_CONFIG_NAME
+	default "ix2-dl"
+
+endif
