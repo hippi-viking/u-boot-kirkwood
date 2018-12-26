@@ -1,0 +1,6 @@
+IX2-DL BOARD
+M:	Istvan Sipos-Szabo <github.com/hippi-viking>
+S:	Unmaintained
+F:	board/lenovo/ix2-dl/
+F:	include/configs/ix2-dl.h
+F:	configs/ix2-dl_defconfig
