@@ -75,3 +75,5 @@
 #define BTN_POWER		46
 #define BTN_RESET		36
 #define BTN_COPY		37
+	
+#endif /* __IX2-DL_H */
